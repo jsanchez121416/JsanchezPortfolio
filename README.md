@@ -1,4 +1,4 @@
-SKILLS
+
 Tableau Software Skills
 • Tableau Desktop Proficiency which is used for creating visualizations, dashboards, and stories from 
 data. 
